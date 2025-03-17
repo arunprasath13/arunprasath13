@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Prasath</h1>
-<h3 align="center">A passionate frontend developer from India and Open Source Enthusiast</h3>
+<h3 align="center">A passionate frontend developer from India and an open-source enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunprasath13&label=Profile%20views&color=0e75b6&style=flat" alt="arunprasath13" /> </p>
 

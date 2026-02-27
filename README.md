@@ -63,19 +63,3 @@ OpenAI API • LangChain • RAG • Prompt Engineering
 
 ### 🧰 Tools  
 Git • GitHub • VS Code • Postman • Docker (Learning)
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunprasath13&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunprasath13&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunprasath13&theme=tokyonight" />
-</p>

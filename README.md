@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arun Prasath</h1>
-<h3 align="center">AI Full-Stack Developer | MERN Engineer | GenAI Builder | Competitive Programmer</h3>
+<h3 align="center">AI Full-Stack Developer | Algorithmic Problem Solver | GenAI Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arunprasath13&label=Profile%20views&color=blueviolet&style=flat" />
@@ -9,59 +9,64 @@
 
 ## 🧠 About Me  
 
-- 🤖 Building **AI-Powered Full Stack Applications**
-- ⚡ MERN Stack Developer with AI integrations
-- 🧠 200+ DSA Problems Solved (LeetCode + HackerRank)
-- 🔍 Exploring **LLMs, RAG, Vector Databases & AI Agents**
-- 🌍 Passionate about solving real-world problems using AI
+- 🤖 Building AI-Powered Full Stack Applications  
+- ⚡ MERN Stack Developer with AI integrations  
+- 🧠 Active Competitive Programmer  
+- 🔍 Exploring LLMs, RAG, Vector Databases & AI Agents  
+- 🌍 Passionate about scalable AI systems  
 - 📫 Email: **arunprasath41d@gmail.com**
 
 ---
 
-## 🚀 What I’m Focused On (2026)
+## 🏆 Competitive Programming  
 
-- 🧠 LLM Integrations (OpenAI / Gemini APIs)
-- 📊 AI Chatbots & AI SaaS Products
-- 🗄️ Vector Databases (Pinecone / Weaviate)
-- ⚙️ Backend Architecture for AI Apps
-- 🧩 System Design + Scalable AI Systems
+- 🔥 Active on **LeetCode**
+- ⚡ Competing on **Codeforces**
+- 🎯 Solving problems on **AtCoder**
+- 💪 Strong in DSA, Graphs, DP, Greedy, Trees
+- 🚀 200+ Problems Solved
+
+<p align="left">
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://codeforces.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://atcoder.jp/" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-222222?style=for-the-badge&logo=atcoder&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 AI Focus (2026)
+
+- LLM Integrations (OpenAI / Gemini APIs)
+- AI Chatbots with Memory (RAG)
+- Vector Databases (Pinecone / Weaviate)
+- AI SaaS Applications
+- Backend Architecture for AI Systems
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Frontend
-React.js • Next.js • JavaScript • TypeScript • Tailwind CSS
+### 🖥️ Frontend  
+React.js • Next.js • TypeScript • Tailwind CSS  
 
-### ⚙️ Backend
-Node.js • Express.js • MongoDB • Firebase • REST APIs
+### ⚙️ Backend  
+Node.js • Express.js • MongoDB • REST APIs  
 
-### 🤖 AI / GenAI
-OpenAI API • LangChain • Vector DB • RAG Architecture • Prompt Engineering
+### 🤖 AI / GenAI  
+OpenAI API • LangChain • RAG • Prompt Engineering  
 
-### 🧰 Tools
-Git • GitHub • Postman • VS Code • Docker (Learning)
-
----
-
-## 🧠 AI Projects (Featured)
-
-🔹 AI Chatbot with Memory (RAG based)  
-🔹 Resume Analyzer using LLM  
-🔹 AI Content Generator SaaS  
-🔹 Smart Contract + AI Hybrid App (Web3 + AI)
+### 🧰 Tools  
+Git • GitHub • VS Code • Postman • Docker (Learning)
 
 ---
 
-## 🏆 Competitive Programming
-
-- 💪 Active on LeetCode
-- 🧠 Strong in Data Structures & Algorithms
-- ⚡ Problem Solving Mindset
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arunprasath13&show_icons=true&theme=tokyonight" />
@@ -74,9 +79,3 @@ Git • GitHub • Postman • VS Code • Docker (Learning)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arunprasath13&theme=tokyonight" />
 </p>
-
----
-
-## 🌐 Connect With Me  
-
-LinkedIn • Email • Portfolio (Coming Soon 🚀)
